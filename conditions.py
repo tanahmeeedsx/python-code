@@ -7,3 +7,5 @@ elif has_job == True:
     print('you can get married too')
 else:
     print('Ruko jara, Sabr karo')
+
+    

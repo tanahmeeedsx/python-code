@@ -10,7 +10,6 @@ else:
 
     # or operator
     is_student = False
-    age = 22
     if is_student == True or age < 25:
         print("Eligible for student discount")
     else:
